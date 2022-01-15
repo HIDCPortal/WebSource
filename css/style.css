@@ -220,6 +220,10 @@ nav a {
     padding: 4px 15px;
     letter-spacing: 1px;
 }
+.home-icon{
+    width: 20px;
+    height: 20px;
+}
 
 
 nav ul li ul li:hover {
