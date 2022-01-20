@@ -226,6 +226,7 @@ nav a {
 }
 
 
+
 nav ul li ul li:hover {
     background: #f8f9fa;
 }
@@ -315,10 +316,30 @@ li > a:only-child:after {
     margin-top: 20px;
 }
 .adm-p{
-    border: solid;
- 
-    border-radius: 10px;
+    max-width: 1200px;
+    margin: 50px auto;
+    background: white;
+    border-radius: 5px;
+    box-shadow: 5px 5px 15px -5px rgba(0, 0, 0, 0.3);
 }
+.adm-p-students{
+    max-width: 1200px;
+    margin: 50px auto;
+    background: white;
+    border-radius: 5px;
+    box-shadow: 5px 5px 15px -5px rgba(0, 0, 0, 0.3);
+}
+#heading {
+    background-color: #ffffff;
+    text-align: center;
+  }
+  .item343 {
+    max-width: 1200px;
+    margin: 40px auto;
+    background: white;
+    border-radius: 5px;
+    box-shadow: 5px 5px 15px -5px rgba(0, 0, 0, 0.3);
+  }
 .adm-btn{
     border: solid;
     margin-top: 10px;
